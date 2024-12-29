@@ -1,2 +1,2 @@
 # SQL
-Interesting SQL problems
+Interesting SQL problems from HackerRank.
